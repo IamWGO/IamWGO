@@ -40,7 +40,7 @@ Overall, I am passionate about mobile application development and am excited to 
 ### DevOps Engineer StudentDevOps Engineer Student
 **JENSEN educationJENSEN education**
 
-*Aug 2023 - Present · 3 mosAug 2023 - Present*
+*Aug 2023 - Present*
 *Malmö, Skåne County, Sweden · HybridMalmö, Skåne County, Sweden · Hybrid*
 
 Wanted to up skills. I will LearnJava, Python, agile, Jenkins, CD/CI, Docker, Kubernetes.
