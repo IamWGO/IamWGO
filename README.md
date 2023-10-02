@@ -2,7 +2,7 @@
 <img src="https://github.com/IamWGO/IamWGO/blob/main/iamwgo.jpg" width="30%" height="30%">
 
 # Waleerat S. Gottlieb
-## iOS & Android Developer
+## iOS & Android Developer, Future DepOps
 
 During 2019 to 2021, I dedicated myself to re-education by studying Swedish and mobile app development.
 
