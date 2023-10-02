@@ -1,5 +1,5 @@
 
-<img src="https://github.com/IamWGO/IamWGO/blob/main/iamwgo.jpg" width="50%" height="50%">
+<img src="https://github.com/IamWGO/IamWGO/blob/main/iamwgo.jpg" width="30%" height="30%">
 
 # Waleerat S. Gottlieb
 ## iOS & Android Developer
