@@ -1,3 +1,6 @@
+
+<img src="https://github.com/IamWGO/IamWGO/blob/main/iamwgo.jpg" width="50%" height="50%">
+
 # Waleerat S. Gottlieb
 ## iOS & Android Developer
 
