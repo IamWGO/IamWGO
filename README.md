@@ -14,7 +14,7 @@ Overall, I am passionate about mobile application development and am excited to 
 
 ## Areas of expertise
 - Programming:
-  - Swift, Swift Combine, Kotlin, Kotlin Multiplatform (KMM), Kotlin, React Native, PHP, JavaScript, TypeScript
+  - Swift, Swift Combine, Kotlin, Kotlin Multiplatform (KMM), Java, React Native, PHP, JavaScript, TypeScript
 - Frontend and mobile:
   - SwiftUI, UIKit, HTML, CSS
 - SCM and tools:
