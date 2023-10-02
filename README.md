@@ -33,21 +33,7 @@ Overall, I am passionate about mobile application development and am excited to 
 
 ## Contact Information
 - **Name:** Waleerat Sangwanloy Gottlieb
-- **Phone:** +46 727 379 299
-- **Address:** Möllevångsgatan 49 C, Malmö, Sweden
 - **Email:** gottlieb.waleerat@gmail.com
-- **Website:** [My Portfolio](https://iamwgo.com/waleerat-cv/)
-
-## References
-**Jakob Mandøe Nielsen**
-- Managing Director & Partner at iCura
-- **Phone:** +45 30 63 07 93
-- **Email:** jakob@icura.dk
-
-**Lars Jessen**
-- Partner, CTO at iCura
-- **Phone:** +45 28113784
-- **Email:** lars@icura.dk
 
 ## Work Experience
 
