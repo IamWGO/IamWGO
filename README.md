@@ -25,6 +25,9 @@ Overall, I am passionate about mobile application development and am excited to 
   - REST APIs, GraphQL, SIE, BGMAX, Fortnox
 
 ## Education
+- **2023 - Current**
+  - DepOps Engineer
+  - JENSEN education, Malmö, Sweden
 - **2020 - 2021**
   - iOS & Android Programming
   - Malmö Yrkeshögskola, Malmö, Sweden
