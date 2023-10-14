@@ -15,7 +15,7 @@ I am passionate about mobile application development and excited to continue gro
   - Android Studio, Intellij, Xcode,  Visual Studio Code
 - **Databases**
   - Firebase, SQLite, MySQL, MS SQL Server, Postgresql
-— **Platforms and technologies**
+- **Platforms and technologies**
   - REST APIs,GraphQL,SIE, BGMAX, Fortnox
 
 ## Education
