@@ -9,17 +9,13 @@ In May 2022, I achieved one of my biggest career goals by landing my dream job a
 I am passionate about mobile application development and excited to continue growing as a Native App developer. I am confident that my strong technical skills, commitment to quality, excellent communication abilities, and eagerness to learn will undoubtedly make me a valuable asset to any team.
 
 ## Areas of expertise
-— Skills
-Kotlin, Kotlin Multiplatform, Android, Jetpack Compose, Swift, and SwiftUI, Java, React Native,  PHP,  JavaScript, TypeScript,  HTML, CSS
+— Skills — Kotlin, Kotlin Multiplatform, Android, Jetpack Compose, Swift, and SwiftUI, Java, React Native,  PHP,  JavaScript, TypeScript,  HTML, CSS
 
-— SCM and tools
-Android Studio, Intellij, Xcode,  Visual Studio Code
+— SCM and tools — Android Studio, Intellij, Xcode,  Visual Studio Code
 
-— Databases
-Firebase, SQLite, MySQL, MS SQL Server, Postgresql
+— Databases — Firebase, SQLite, MySQL, MS SQL Server, Postgresql
 
-— Platforms and technologies
-REST APIs,GraphQL,SIE, BGMAX, Fortnox
+— Platforms and technologies — REST APIs,GraphQL,SIE, BGMAX, Fortnox
 
 
 
