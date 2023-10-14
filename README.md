@@ -4,13 +4,9 @@
 # Waleerat S. Gottlieb
 ## iOS & Android Developer, Future DepOps
 
-During 2019 to 2021, I dedicated myself to re-education by studying Swedish and mobile app development.
-
 In May 2022, I achieved one of my biggest career goals by landing my dream job as a Kotlin Multiplatform (KMM) developer at iCura ApS in Denmark. As part of my role, I have the opportunity to build mobile applications using both SwiftUI and Kotlin, allowing me to learn and utilize two different languages while also mastering how to code shared logic between them.
 
-As a KMM developer, I know that my passion for coding is one of the most important traits I bring to the table. While working with SwiftUI and Kotlin requires a high level of skill and expertise, my love for programming drives me to learn and utilize these technologies to the best of my abilities.
-
-Overall, I am passionate about mobile application development and am excited to continue growing as a Native App developer. I am confident that my skills and experience will enable me to make a significant impact on my team and the projects we undertake.
+I am passionate about mobile application development and excited to continue growing as a Native App developer. I am confident that my strong technical skills, commitment to quality, excellent communication abilities, and eagerness to learn will undoubtedly make me a valuable asset to any team.
 
 ## Areas of expertise
 - Programming:
