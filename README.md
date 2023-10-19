@@ -35,29 +35,36 @@ I am passionate about mobile application development and excited to continue gro
 ## Work Experience
 
 #### DevOps Engineer StudentDevOps Engineer Student
-**JENSEN educationJENSEN education** *Aug 2023 - Present*
-*Malmö, Skåne County, Sweden · HybridMalmö, Skåne County, Sweden · Hybrid*
+**JENSEN educationJENSEN education** 
+*Aug 2023 - Present*
+*Malmö, Skåne County, Sweden · Hybrid*
 
 #### iOS & Android Developer 
-**iCura ApS, Copenhagen, Denmark**  *May 2022 - May 2023*  
+**iCura ApS, Copenhagen, Denmark**  
+*May 2022 - May 2023*  
 *Key Technologies: Swift, SwiftUI, Kotlin Multiplatform (KMM)*
 
 #### iOS & Android Developer 
-**Malmö, Sweden**  *May 2018 - August 2020*  
+**Malmö, Sweden**  
+*May 2018 - August 2020*  
 *Key Technologies: Swift, SwiftUI, Kotlin, Firebase, Rest API*
 
 #### Lead Developer 
-**Rebatemango.co.ltd, Bangkok, Thailand** *March 2017 – April 2018*  
+**Rebatemango.co.ltd, Bangkok, Thailand** 
+*March 2017 – April 2018*  
 *Key Technologies: PHP, MySQL, APIs, Cashback Engine*
 
 #### Web Developer (Freelance) 
-**Malmö, Sweden**  *December 2014 – December 2016*  
+**Malmö, Sweden**  
+*December 2014 – December 2016*  
 *Key Technologies: PHP, WordPress, MySQL, APIs*
 
 #### Backend Developer 
-**Combain Mobile AB, Lund, Sweden**  *December 2013 – May 2014* 
+**Combain Mobile AB, Lund, Sweden**  
+*December 2013 – May 2014* 
 *Key Technologies: PHP, WordPress, MySQL, APIs*
 
 #### PHP Developer 
-**Bangkok, Thailand** *January 2003 – June 2011*  
+**Bangkok, Thailand** 
+*January 2003 – June 2011*  
 *Key Technologies: PHP, MySQL, APIs*
