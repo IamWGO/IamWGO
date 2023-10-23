@@ -31,4 +31,4 @@ I am passionate about mobile application development and excited to continue gro
 ## Contact Information
 - **Name:** Waleerat Sangwanloy Gottlieb
 - **Email:** gottlieb.waleerat@gmail.com
-- [**LinkedIn:  https://www.linkedin.com/in/waleeratgottlieb/**](https://www.linkedin.com/in/waleeratgottlieb/)
+- [**LinkedIn: www.linkedin.com/in/waleeratgottlieb/**](https://www.linkedin.com/in/waleeratgottlieb/)
