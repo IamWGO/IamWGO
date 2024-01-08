@@ -10,7 +10,9 @@ I am passionate about mobile application development and excited to continue gro
 
 ## Areas of expertise
 - **Skills**
-  - Kotlin, Kotlin Multiplatform, Android, Jetpack Compose, Swift, and SwiftUI, Java, React Native,  PHP,  JavaScript, TypeScript,  HTML, CSS
+  - Kotlin, Kotlin Multiplatform, Android, Jetpack Compose, Swift, and SwiftUI
+  - Python, Java, React Native (beginer level)
+  - PHP,  JavaScript, TypeScript,  HTML, CSS
 - **SCM and tools**
   - Android Studio, Intellij, Xcode,  Visual Studio Code
 - **Databases**
